@@ -1,4 +1,4 @@
-sleeptime=1
+sleeptime=1-0.5
 keyboard.send_keys("/dlsfkdls tngkr")
 time.sleep(sleeptime)
 

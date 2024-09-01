@@ -1,4 +1,4 @@
-sleeptime=1
+sleeptime=1-0.5
 # Cut selected content
 keyboard.send_keys("<ctrl>+x")
 time.sleep(sleeptime)

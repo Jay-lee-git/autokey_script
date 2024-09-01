@@ -1,4 +1,4 @@
-sleeptime=1
+sleeptime=1-0.5
 keyboard.send_keys("/inline math")
 time.sleep(sleeptime)
 
