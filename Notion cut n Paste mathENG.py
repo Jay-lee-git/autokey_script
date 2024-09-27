@@ -1,5 +1,10 @@
+# rouillon: 0.3
 sleeptime=0.7
-keyboard.send_keys("/inline math")
+# Cut selected content
+keyboard.send_keys("<ctrl>+x")
+time.sleep(sleeptime)
+
+keyboard.send_keys("/math")
 time.sleep(sleeptime)
 
 # Press Enter

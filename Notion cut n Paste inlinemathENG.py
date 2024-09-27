@@ -1,4 +1,5 @@
-sleeptime=1-0.5
+# rouillon: 0.3
+sleeptime=0.7
 # Cut selected content
 keyboard.send_keys("<ctrl>+x")
 time.sleep(sleeptime)

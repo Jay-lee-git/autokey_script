@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "shft_page_up",
+    "description": "shft_right",
     "store": {},
     "modes": [
         3
@@ -22,7 +22,7 @@
             "<alt>",
             "<shift>"
         ],
-        "hotKey": "p"
+        "hotKey": "l"
     },
     "filter": {
         "regex": null,

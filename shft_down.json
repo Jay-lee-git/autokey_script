@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "ctrl_sft_left1",
+    "description": "shft_down",
     "store": {},
     "modes": [
         3
@@ -20,10 +20,9 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<ctrl>",
             "<shift>"
         ],
-        "hotKey": "h"
+        "hotKey": "j"
     },
     "filter": {
         "regex": null,

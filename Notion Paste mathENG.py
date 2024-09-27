@@ -1,5 +1,5 @@
 sleeptime=0.7
-keyboard.send_keys("/inline math")
+keyboard.send_keys("/math")
 time.sleep(sleeptime)
 
 # Press Enter

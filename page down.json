@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "sft_home",
+    "description": "page down",
     "store": {},
     "modes": [
         3
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<alt>",
-            "<shift>"
+            "<alt>"
         ],
-        "hotKey": "u"
+        "hotKey": ";"
     },
     "filter": {
         "regex": null,
