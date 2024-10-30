@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Add Bracket []",
+    "description": "Add Bracket ()",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 3,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,8 +18,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": "["
+        "modifiers": [
+            "<shift>"
+        ],
+        "hotKey": "9"
     },
     "filter": {
         "regex": null,
